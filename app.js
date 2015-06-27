@@ -1,3 +1,3 @@
-alert("Welcome To Squiggles Art!");
+alert("Welcome!");
 // python -m SimpleHTTPServer 8000
 

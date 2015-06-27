@@ -1,10 +1,11 @@
 body {
-	background-color:white;
+	background-image:url(http://i.imgur.com/FYjrvy0.gif);
 	
 }
+
 p {
-	color:blue;
+	color:green;
 }
 p#egg {
-	color:blue;
+	color:green;
 }
